@@ -72,16 +72,16 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 * 0.0.1 - 06/03/2024
     * ENTREGA: Formulário de extensão pronto.
-    * ADD: Planejamento de conteúdo do jogo.
+    * ANDAMENTO: Planejamento de conteúdo do jogo.
 * 0.0.2 - 13/03/2024
     * ADD: Conteúdo do jogo definido.
     * ADD: Instituição escolhida.
 * 0.1.1 - 31/03/2024
-    * ENTREGA:
-* 0.1.2 - -/-/2024
-    * MUDANÇA: 
-* 0.2.1 - -/-/2024
-    * 
+    * ANDAMENTO: Telas iniciadas.
+* 0.1.2 - 11/04/2024
+    * ANDAMENTO: Banco de dados iniciado.
+* 0.2.1 - 23/04/2024
+    * ENTREGA: Banco de dados finalizado.
 
 ## 📋 Licença/License
 
