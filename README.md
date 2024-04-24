@@ -15,7 +15,7 @@
 ## <p align="center" > Descrição
 
 <p align="center">
-<img src="img/TaskTwice.PNG" border="0">
+<img src="img/TaskTwice.png" border="0">
 </p>
 
 
