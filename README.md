@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Palavreando
+# Palavreando 📚
 
 ## TaskTwice
 
@@ -19,7 +19,7 @@
 </p>
 
 
-O projeto "Palavreando" em parceria com a ONG "Ninho de vó" tem como objetivo despertar a curiosidade, incentivar a autonomia e preparar crianças para os diversos desafios da vida
+O projeto "Palavreando" em parceria com a ONG "Ninho de vó" tem como objetivo despertar a curiosidade, incentivar a autonomia e preparar crianças para os diversos desafios da vida.
 <br><br>
 Através de uma metodologia inteligente, impulsionamos os pequenos estudantes a conquistarem seus sonhos desde o primeiro passo.
 <br><br>
@@ -77,6 +77,7 @@ A cada atualização os detalhes devem ser lançados aqui.
     * ANDAMENTO: Telas iniciadas.
 * 0.1.2 - 11/04/2024
     * ANDAMENTO: Banco de dados iniciado.
+    * ANDAMENTO: Telas.
 * 0.2.1 - 23/04/2024
     * ENTREGA: Banco de dados finalizado.
 
