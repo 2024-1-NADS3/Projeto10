@@ -87,5 +87,5 @@ A cada atualização os detalhes devem ser lançados aqui.
 ## 🎓 Referências
 Aqui estão as referências usadas no projeto.
 
-1. <[https://github.com/iuricode/readme-template](https://www.udemy.com/course/desenvolvimento-de-jogos-com-android-studio-e-java/learn/lecture/34589370?start=1065#overview)>
+1. <[https://github.com/iuricode/readme-template](https://www.udemy.com/course/desenvolvimento-de-jogos-com-android-studio-e-java/learn/lecture/34589370?start=1065#overview)/>
 
