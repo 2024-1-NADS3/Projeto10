@@ -37,22 +37,20 @@ Através de uma metodologia inteligente, impulsionamos os pequenos estudantes a 
 * Codesandbox
 
 
-## 🛠 Estrutura de pastas
+## 🗃 Estrutura de pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+<b> 🢒 Raiz</b> <br>
+ &emsp;<br>
+📁 <b>Documentos</b><br>
+  &emsp; &emsp; ⤷ Documentação.docx<br>
+📁 <b>Executáveis</b><br>
+  &emsp; &emsp; ⤷ Android<br>
+  &emsp; &emsp; ⤷ HTML<br>
+📁 <b>src</b><br>
+  &emsp; &emsp; ⤷ Backend<br>
+  &emsp; &emsp; ⤷ Frontend<br>
+  &emsp; &emsp; ⤷ readme.md<br>
+📁 <b>Imagens</b><br>
 
 ## 🛠 Instalação
 
@@ -63,7 +61,7 @@ Através de uma metodologia inteligente, impulsionamos os pequenos estudantes a 
 <b>II - </b> Execute o APK e siga as instruções de seu telefone.
 
 
-## 🗃 Histórico de lançamentos
+## 📋 Histórico de lançamentos
 
 A cada atualização os detalhes devem ser lançados aqui.
 
@@ -80,12 +78,13 @@ A cada atualização os detalhes devem ser lançados aqui.
 * 0.2.1 - 23/04/2024
     * ENTREGA: Banco de dados finalizado.
 
-## 📋 Licença/License
+## 📃 Licença/License
 
 
 ## 🎓 Referências
 Aqui estão as referências usadas no projeto.
 
-1. https://github.com/iuricode/readme-template](https://www.udemy.com/course/desenvolvimento-de-jogos-com-android-studio-e-java/learn/lecture/34589370?start=1065#overview)
-2. https://www.udemy.com/share/1013us3@NeOpK3_HgZqXha6ZqZoMN9titPehNBWbnn5n0Xlr3IEf9lfcbagsn4SCdh1bvr-G/
+* https://github.com/iuricode/readme-template](https://www.udemy.com/course/desenvolvimento-de-jogos-com-android-studio-e-java/learn/lecture/34589370?start=1065#overview)
+<br><br>
+* https://www.udemy.com/share/1013us3@NeOpK3_HgZqXha6ZqZoMN9titPehNBWbnn5n0Xlr3IEf9lfcbagsn4SCdh1bvr-G/
 
