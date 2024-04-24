@@ -60,7 +60,7 @@ Faça o Download do JOGO.apk no seu celular.
 Execute o APK e siga as instruções de seu telefone.
 
 ```sh
-Coloque código do prompt de comnando se for necessário
+Coloque código do prompt de comando se for necessário
 ```
 
 ## 🗃 Histórico de lançamentos
