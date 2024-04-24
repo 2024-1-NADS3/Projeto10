@@ -19,7 +19,7 @@
 </p>
 
 
-O projeto "Palavreando" em parceria com a ONG "Ninho de vó" tem como objetivo despertar a curiosidade, incentivar a autonomia e preparar crianças para os diversos desafios da vida.
+O projeto “Palavreando” em parceria com a ONG “Ninho de vó” tem como objetivo despertar a curiosidade, incentivar a autonomia e preparar crianças para os diversos desafios da vida.
 <br><br>
 Através de uma metodologia inteligente, impulsionamos os pequenos estudantes a conquistarem seus sonhos desde o primeiro passo.
 <br><br>
