@@ -77,7 +77,6 @@ A cada atualização os detalhes devem ser lançados aqui.
     * ANDAMENTO: Telas iniciadas.
 * 0.1.2 - 11/04/2024
     * ANDAMENTO: Banco de dados iniciado.
-    * ANDAMENTO: Telas.
 * 0.2.1 - 23/04/2024
     * ENTREGA: Banco de dados finalizado.
 
