@@ -24,6 +24,18 @@ O projeto “Palavreando” em parceria com a ONG “Ninho de vó” tem como ob
 Através de uma metodologia inteligente, impulsionamos os pequenos estudantes a conquistarem seus sonhos desde o primeiro passo.
 <br><br>
 
+## ⚙️ Desenvolvimento
+
+<b> Front-End <b>
+* Android Studio
+* Figma
+
+<b> Back-End <b>
+* Android Studio
+* MySQL
+* Codesandbox
+
+
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
@@ -41,17 +53,6 @@ Através de uma metodologia inteligente, impulsionamos os pequenos estudantes a 
   &emsp;|-->Frontend<br>
 |readme.md<br>
 
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
-
 ## 🛠 Instalação
 
 <b>Android:</b>
@@ -59,9 +60,6 @@ Há também 4 pastas que seguem da seguinte forma:
 Faça o Download do JOGO.apk no seu celular.
 Execute o APK e siga as instruções de seu telefone.
 
-```sh
-Coloque código do prompt de comando se for necessário
-```
 
 ## 🗃 Histórico de lançamentos
 
