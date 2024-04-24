@@ -26,11 +26,12 @@ Através de uma metodologia inteligente, impulsionamos os pequenos estudantes a 
 
 ## ⚙️ Desenvolvimento
 
-<b> Front-End <b>
+<b> Front-End </b>
+ 
 * Android Studio
 * Figma
 
-<b> Back-End <b>
+ <b> Back-End </b> 
 * Android Studio
 * MySQL
 * Codesandbox
@@ -55,10 +56,11 @@ Através de uma metodologia inteligente, impulsionamos os pequenos estudantes a 
 
 ## 🛠 Instalação
 
-<b>Android:</b>
+<b>Android</b>
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+<b>I - </b> Faça o Download do JOGO.apk no seu celular.
+
+<b>II - </b> Execute o APK e siga as instruções de seu telefone.
 
 
 ## 🗃 Histórico de lançamentos
