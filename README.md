@@ -77,6 +77,9 @@ A cada atualização os detalhes devem ser lançados aqui.
     * ANDAMENTO: Banco de dados iniciado.
 * 0.2.1 - 23/04/2024
     * ENTREGA: Banco de dados finalizado.
+    * ENTREGA: Funcionalidade principal testável.
+* 0.2.2 - 24/04/2024
+    * ENTREGA: Documentação do Front e Back até o momento. 
 
 ## 📃 Licença/License
 
