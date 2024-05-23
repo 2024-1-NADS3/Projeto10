@@ -88,5 +88,19 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 * https://github.com/iuricode/readme-template](https://www.udemy.com/course/desenvolvimento-de-jogos-com-android-studio-e-java/learn/lecture/34589370?start=1065#overview)
 <br><br>
-* https://www.udemy.com/share/1013us3@NeOpK3_HgZqXha6ZqZoMN9titPehNBWbnn5n0Xlr3IEf9lfcbagsn4SCdh1bvr-G/
+ https://www.udemy.com/share/1013us3@NeOpK3_HgZqXha6ZqZoMN9titPehNBWbnn5n0Xlr3IEf9lfcbagsn4SCdh1bvr-G/
+<br><br>
+*https://www.youtube.com/watch?v=GMiAP3JH_4c&t=235s*
+<br><br>
+*https://www.youtube.com/watch?v=YIiJD4OYXAc&t=141s*
+<br><br>
+https://www.youtube.com/watch?v=AmZ6WZqDxM0
+<br><br>
+*https://www.youtube.com/watch?v=AmZ6WZqDxM0*
+<br><br>
+*https://www.youtube.com/watch?v=yEpiT-N2DUc&list=PLygIEirBzJi4lTC-5nzfhEyxuKq2y1uiR*
+<br><br>
+*https://www.youtube.com/watch?v=cr3pX6fSUpc&t=868s*
+<br><br>
+*https://www.youtube.com/watch?v=84KnxdalawQ&t=46s*
 
