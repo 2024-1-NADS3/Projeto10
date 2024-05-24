@@ -48,8 +48,8 @@ Através de uma metodologia inteligente, impulsionamos os pequenos estudantes a 
   &emsp; &emsp; ⤷ Template_Projetos_de_Extensão.docx<br>
   &emsp; &emsp; ⤷  arquivo_build_playstore.txt<br>
 📁 <b>src</b><br>
-  &emsp; &emsp; ⤷ Backend<br>
-  &emsp; &emsp; ⤷ Frontend<br>
+  &emsp; &emsp; ⤷ 📁 Backend<br>
+  &emsp; &emsp; ⤷ 📁 Frontend<br>
 📁 <b>img</b><br>
  * readme.md<br>
 
