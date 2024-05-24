@@ -42,21 +42,23 @@ Através de uma metodologia inteligente, impulsionamos os pequenos estudantes a 
 <b> 🢒 Raiz</b> <br>
  &emsp;<br>
 📁 <b>Documentos</b><br>
-  &emsp; &emsp; ⤷ Documentação.docx<br>
-📁 <b>Executáveis</b><br>
-  &emsp; &emsp; ⤷ Android<br>
-  &emsp; &emsp; ⤷ HTML<br>
+  &emsp; &emsp; ⤷ 📁 Backend<br>
+  &emsp; &emsp; ⤷ 📁 Frontend<br>
+  &emsp; &emsp; ⤷ 📁 testes_Devops<br>
+  &emsp; &emsp; ⤷ Template_Projetos_de_Extensão.docx<br>
+  &emsp; &emsp; ⤷  arquivo_build_playstore.txt<br>
 📁 <b>src</b><br>
   &emsp; &emsp; ⤷ Backend<br>
   &emsp; &emsp; ⤷ Frontend<br>
-  &emsp; &emsp; ⤷ readme.md<br>
-📁 <b>Imagens</b><br>
+📁 <b>img</b><br>
+ * readme.md<br>
+
 
 ## 🛠 Instalação
 
 <b>Android</b>
 
-<b>I - </b> Faça o Download do JOGO.apk no seu celular.
+<b>I - </b> Faça o Download do apk no seu celular.
 
 <b>II - </b> Execute o APK e siga as instruções de seu telefone.
 
